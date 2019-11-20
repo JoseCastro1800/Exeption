@@ -1,0 +1,10 @@
+C:\Users\karla\OneDrive\Desktop\Exeption\Exeption\bin\Debug\Exeption.exe.config
+C:\Users\karla\OneDrive\Desktop\Exeption\Exeption\bin\Debug\Exeption.exe
+C:\Users\karla\OneDrive\Desktop\Exeption\Exeption\bin\Debug\Exeption.pdb
+C:\Users\karla\OneDrive\Desktop\Exeption\Exeption\obj\Debug\Exeption.csprojAssemblyReference.cache
+C:\Users\karla\OneDrive\Desktop\Exeption\Exeption\obj\Debug\Exeption.Properties.Resources.resources
+C:\Users\karla\OneDrive\Desktop\Exeption\Exeption\obj\Debug\Exeption.csproj.GenerateResource.cache
+C:\Users\karla\OneDrive\Desktop\Exeption\Exeption\obj\Debug\Exeption.csproj.CoreCompileInputs.cache
+C:\Users\karla\OneDrive\Desktop\Exeption\Exeption\obj\Debug\Exeption.exe
+C:\Users\karla\OneDrive\Desktop\Exeption\Exeption\obj\Debug\Exeption.pdb
+C:\Users\karla\OneDrive\Desktop\Exeption\Exeption\obj\Debug\Exeption.FrmExeption.resources
